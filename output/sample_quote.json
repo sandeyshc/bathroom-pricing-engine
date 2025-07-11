@@ -1,0 +1,60 @@
+{
+    "tasks": [
+        {
+            "task": "remove tiles",
+            "material_cost": 100,
+            "labor_cost": 250.0,
+            "estimated_time": 5.0,
+            "total_price": 482.9999999999999,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        },
+        {
+            "task": "redo plumbing",
+            "material_cost": 200,
+            "labor_cost": 400.0,
+            "estimated_time": 8.0,
+            "total_price": 828.0,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        },
+        {
+            "task": "replace toilet",
+            "material_cost": 150,
+            "labor_cost": 150.0,
+            "estimated_time": 3.0,
+            "total_price": 414.0,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        },
+        {
+            "task": "install vanity",
+            "material_cost": 250,
+            "labor_cost": 200.0,
+            "estimated_time": 4.0,
+            "total_price": 621.0,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        },
+        {
+            "task": "repaint walls",
+            "material_cost": 80,
+            "labor_cost": 300.0,
+            "estimated_time": 6.0,
+            "total_price": 524.3999999999999,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        },
+        {
+            "task": "lay tiles",
+            "material_cost": 120,
+            "labor_cost": 350.0,
+            "estimated_time": 7.0,
+            "total_price": 648.6,
+            "vat_rate": 0.2,
+            "margin": 0.15
+        }
+    ],
+    "room_size": 4.0,
+    "total_price": 3518.9999999999995
+}

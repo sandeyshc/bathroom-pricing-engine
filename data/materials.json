@@ -1,0 +1,8 @@
+{
+    "remove tiles": {"cost": 100},
+    "redo plumbing": {"cost": 200},
+    "replace toilet": {"cost": 150},
+    "install vanity": {"cost": 250},
+    "repaint walls": {"cost": 80},
+    "lay tiles": {"cost": 120}
+}
